@@ -1,3 +1,4 @@
+![DP](https://github.com/RN0311/Go-Tutorial/blob/master/img/go_lang.png)
 # Go-Tutorial <br >
 ### Installing Go <br >
 This quick guide will show you how to install Go along with ```Hello World``` program.<br >
