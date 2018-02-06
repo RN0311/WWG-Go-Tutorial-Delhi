@@ -1,7 +1,10 @@
 ![DP](https://github.com/RN0311/Go-Tutorial/blob/master/img/go_lang.png)
 # Go-Tutorial <br >
+Hey, everyone!So, excited and thrilled to share our knowledge with you'all!<br >
+Below are features of our talk today!
+
 ### [Installing Go](https://github.com/RN0311/Go-Tutorial/blob/master/Installation.md) <br >
-This quick guide will show you how to install Go along with ```Hello World``` program.<br >
+This quick guide will show you how to install and configure Go along with ```Hello World``` program.<br >
 ### First Command Line Program <br >
 This tutorial will guide you how to create basic command line program which accepts arguments.<br >
 ### First WebServer <br >
