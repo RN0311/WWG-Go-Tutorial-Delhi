@@ -11,7 +11,7 @@ This tutorial will guide you how to create basic command line program which acce
 This short-guide will guide you how to create first webserver and route incoming requests.<br >
 ### Basic Concurrency <br >
 Learn how to create basic concurrency patterns.<br >
-### Resources <br >
+### [Resources](https://github.com/RN0311/WWG-Go-Tutorial-Delhi/blob/master/Resources.md) <br >
 Some GoLang resources.
 
 
