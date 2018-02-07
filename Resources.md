@@ -58,3 +58,18 @@
 * [snowball](https://github.com/goodsign/snowball) - Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/).
 * [stemmer](https://github.com/dchest/stemmer) - Stemmer packages for Go programming language. Includes English and German stemmers.
 * [gse](https://github.com/go-ego/gse) - Go efficient text segmentation; support english, chinese, japanese and other.
+
+## Machine Learning
+
+*Below are list of libraries for Machine Learning.*
+
+* [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
+* [CloudForest](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go
+* [Varis](https://github.com/Xamber/Varis) - Golang Neural Network.
+* [gorgonia](https://github.com/chewxy/gorgonia) - graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+* [goscore](https://github.com/asafschers/goscore) - Go Scoring API for PMML.
+* [golinear](https://github.com/danieldk/golinear) - liblinear bindings for Go.
+* [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
+* [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go.
+* [go-cluster](https://github.com/e-XpertSolutions/go-cluster) - Go implementation of the k-modes and k-prototypes clustering algorithms.
+* [go-fann](https://github.com/white-pony/go-fann) - Go bindings for Fast Artificial Neural Networks(FANN) library.
