@@ -5,7 +5,7 @@ Below are features of our talk today!
 
 ### [Installing Go](https://github.com/RN0311/Go-Tutorial/blob/master/Installation.md) <br >
 This quick guide will show you how to install and configure Go along with ```Hello World``` program.<br >
-### First Command Line Program <br >
+### First CLI Program <br >
 This tutorial will guide you how to create basic command line program which accepts arguments.<br >
 ### [First WebServer](https://github.com/RN0311/Go-Tutorial/blob/master/First%20Webserver.md) <br >
 This short-guide will guide you how to create first webserver and route incoming requests.<br >
