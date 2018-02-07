@@ -1,6 +1,6 @@
 ## Resources
 ### Tutorials
-* [A Tour of Go](https://tour.golang.org/welcome/1) - Interactive tour of G
+* [A Tour of Go](https://tour.golang.org/welcome/1) - Interactive tour of Go
 * [Learning Go in Y Minutes](https://learnxinyminutes.com/docs/go/) - Short and precise introduction of Go.
 * [Golang tutorial](https://golang.org/doc/code.html) - Learn Go from the best online golang tutorials submitted & voted by the golang programming community.
 * [Go by example](https://gobyexample.com/) - Hands on, intro to Go using annotated examples.
