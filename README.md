@@ -1,6 +1,6 @@
 ![DP](https://github.com/RN0311/Go-Tutorial/blob/master/img/go_lang.png)
 # Go-Tutorial <br >
-Hey, everyone!So, excited and thrilled to share our knowledge with you'all!<br >
+Hey, everyone!We're so excited and thrilled to share our knowledge with you'all!<br >
 Below are features of our talk today!
 
 ### [Installing Go](https://github.com/RN0311/Go-Tutorial/blob/master/Installation.md) <br >
