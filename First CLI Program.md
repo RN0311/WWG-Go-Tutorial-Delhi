@@ -20,7 +20,7 @@ Firstly, let's understand the what is ``` Tower of Hanoi ``` and logic to solve.
 
 **Introduction**: The game "Towers of Hanoi" uses three rods. 
 A number of disks is stacked in decreasing order from the bottom to the top of one rod, i.e. the largest disk at the bottom and the smallest one on top.  
-**Problem Statement**: You've to move tower of disks from one rod to another rod.
+**Problem Statement**: You've to move tower of disks from one rod to another rod.<br >
 **Constraints**: 
 * Only one disk must be moved at a time.
 * Only the most upper disk from one of the rods can be moved during a single move.
