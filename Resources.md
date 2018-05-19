@@ -25,7 +25,7 @@
 
 ## Security
 
-*Below are some of the libraries which are used to help make your application more secure.*
+*Below are some of the libraries which are used to help make your application more secure in Golang.*
 
 * [acmetool](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 * [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - Auto
@@ -36,7 +36,7 @@
 
 ## Data Analysis
 
-*Below are some of the libraries for scientific computing and data analyzing.*
+*Below are some of the libraries for scientific computing and data analyzing in Golang.*
 
 * [blas](https://github.com/ziutek/blas) - Implementation of BLAS (Basic Linear Algebra Subprograms).
 * [chart](https://github.com/vdobler/chart) - Simple Chart Plotting library for Go. Supports many graphs types.
@@ -46,7 +46,7 @@
 
 ## Natural Language Processing
 
-*These are the libraries for natural language processing*
+*These are the libraries for natural language processing in Golang.*
 
 * [dpar](https://github.com/danieldk/dpar/) - Transition-based statistical dependency parser.
 * [porter](https://github.com/a2800276/porter) - This is a fairly straightforward port of Martin Porter's C implementation of the Porter stemming algorithm.
@@ -61,7 +61,7 @@
 
 ## Machine Learning
 
-*Below are list of libraries for Machine Learning.*
+*Below are list of libraries for Machine Learning in Golang.*
 
 * [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 * [CloudForest](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go
